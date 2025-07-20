@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/favbyte/.github/main/profile/favbyte-logo.svg" width="120" alt="Favbyte logo" />
+  <img src="https://avatars.githubusercontent.com/u/220758445" width="120" alt="Favbyte logo" />
 </p>
 
 # Favbyte · Digital Growth Solutions
